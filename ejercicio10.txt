@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main(int argc, char *argv[])
+{
+ int i=0;
+ for(i = 1; i < argc; i++) 
+ {
+ printf("arg %d: %s\n", i, argv[i]);
+ }
+ char *states[] = 
+ {
+ "California", "Oregon",
+ "Washington", "Texas"
+ };
+ int num_states = 4;
+ for(i = 0; i < num_states; i++) {
+ printf("state %d: %s\n", i, states[i]);
+ }
+ return 0;
+}
+
+//data type for loopThe initial value of the for loop is performed only once.The condition is a Boolean expression that tests and compares the counter to a fixed value after each iteration, stopping the for loop when false is returned. The incrementation/decrementation increases (or decreases) the counter by a set value.
+//The comma as a pointer is used to separate the elements in the parameter lists of a function
+//Semicolon; is the end of sentence sign. Any legal expression 
