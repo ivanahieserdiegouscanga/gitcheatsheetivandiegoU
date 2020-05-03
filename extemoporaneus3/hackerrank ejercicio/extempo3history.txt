@@ -1,0 +1,150 @@
+  133  git commit . -m"ejercicio 11"
+  134  git push
+  135  ls
+  136  cd gitcheatsheetivand/
+  137  git add .
+  138  git commit . -m"segunda version"
+  139  git push
+  140  git add .
+  141  git  commit . -m "ejercicio 12 fase 1"
+  142  git push
+  143  ls
+  144  cd
+  145  cd
+  146  #!/bin/bash
+  147  ##############################################################################
+  148  # SHORTCUTS
+  149  ##############################################################################
+  150  CTRL+A  # move to beginning of line
+  151  CTRL+B  # moves backward one character
+  152  CTRL+C  # halts the current command
+  153  CTRL+D  # deletes one character backward or logs out of current session, similar to exit
+  154  CTRL+E  # moves to end of line
+  155  CTRL+F  # moves forward one character
+  156  CTRL+G  # aborts the current editing command and ring the terminal bell
+  157  CTRL+J  # same as RETURN
+  158  CTRL+K  # deletes (kill) forward to end of line
+  159  CTRL+L  # clears screen and redisplay the line
+  160  CTRL+M  # same as RETURN
+  161  CTRL+N  # next line in command history
+  162  CTRL+O  # same as RETURN, then displays next line in history file
+  163  CTRL+P  # previous line in command history
+  164  CTRL+R  # searches backward
+  165  CTRL+S  # searches forward
+  166  CTRL+T  # transposes two characters
+  167  CTRL+U  # kills backward from point to the beginning of line
+  168  CTRL+V  # makes the next character typed verbatim
+  169  CTRL+W  # kills the word behind the cursor
+  170  CTRL+X  # lists the possible filename completions of the current word
+  171  CTRL+Y  # retrieves (yank) last item killed
+  172  CTRL+Z  # stops the current command, resume with fg in the foreground or bg in the background
+  173  ALT+B   # moves backward one word
+  174  ALT+D   # deletes next word
+  175  ALT+F   # moves forward one word
+  176  DELETE  # deletes one character backward
+  177  !!      # repeats the last command
+  178  exit    # logs out of current session
+  179  ls
+  180  cd gitcheatsheetivand/
+  181  cd
+  182  cd
+  183  ls
+  184  pwd
+  185  pwd
+  186  pwd
+  187  c:
+  188  PS C:\Users\zed> pwd
+  189  Path ---C:\Users\zed
+  190  PS C:\Users\zed> 
+  191  pwd
+  192  ls
+  193  cd gitcheatsheetivand
+  194  git add .
+  195  git commit . -m "hang man exercise keyword arbol"
+  196  /ls
+  197  ls
+  198  git  add .
+  199  git  commit . -m "hang mand keyword arbol"
+  200  git add
+  201  git add .
+  202  git push
+  203  ls 
+  204  ls
+  205  . git add
+  206  cd 
+  207  git status
+  208  git add .
+  209  git diff
+  210  git commit . -m añadimos  los codigos de los extemporaneos 
+  211  git commit -m añadi  los codigos de los extemporaneos
+  212  git commit -m "añadi  los archivos de  el  extemporaneo"
+  213  git push
+  214  history|tail -n 150 >extempohistory.txt
+  215  git add .
+  216  git commit .
+  217  git add .
+  218  git commit -m " añadi  el historial de  git "
+  219  git push 
+  220  git status
+  221  git add .
+  222  git add .
+  223  git push
+  224  git commit
+  225  git add .
+  226  git add .
+  227  git commit
+  228  git add .
+  229  ls
+  230  git clone https://github.com/ivanahieserdiegouscanga/gitcheatsheetivand.git
+  231  git status
+  232  git add .
+  233  git add .
+  234  git help submodule
+  235  dir
+  236  git  add .
+  237  git commit 
+  238  git  add .
+  239  git  add .
+  240  git commit -m "ejercicio numero 1  de hacker rank playing with characters"
+  241  git push
+  242  ls
+  243  git clone https://github.com/ivanahieserdiegouscanga/gitcheatsheetivandiegoU.git
+  244  git status
+  245  git status
+  246  ls
+  247  cd gitcheatsheetivandiegoU/
+  248  git status
+  249  git add .
+  250  git commit -m "añadimos archivo  hola .txt"
+  251  git push
+  252  ls
+  253  git add .
+  254  git commit -m "ejercicios  de git y c"
+  255  git push
+  256  git add .
+  257  git commit -m "ejercicios de extemporaneo primera fecha"
+  258  git push
+  259  git add .
+  260  git commit -m "ejercicio numero dos de hacker rank numeros flotantes y enteros"
+  261  git push
+  262  git add .
+  263  git commit -m "ejercicio numero3 hacker rank max number"
+  264  git push
+  265  git add .
+  266  git commit -m "ejercicio 4 hacker rank pointers"
+  267  git push
+  268  git add .
+  269  git commit -m "ejercicio 5  hacker rank for loop"
+  270  git push
+  271  git add .
+  272  git commit -m "ejercicio 5 de hacker rank  sum of digits"
+  273  git push
+  274  git add
+  275  git add .
+  276  git commit -m "ejercicio 7 hacker rank  conditional"
+  277  git push
+  278  git add .
+  279  git commit -m "actualizacion de codigos"
+  280  git push
+  281  history | tail -n 150 > extemporaneushistory.txt
+  282   history | tail -n 150 > extempo3history.txt
