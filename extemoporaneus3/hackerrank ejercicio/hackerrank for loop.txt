@@ -33,7 +33,7 @@ void swcf(int a, int b){
     case(7):printf("seven\n");
     break;
 
-    case(8):printf("eigth\n");
+    case(8):printf("eight\n");
     break;
 
     case(9):printf("nine\n");
@@ -58,7 +58,8 @@ int main()
 //input values from the user
     scanf("%d\n%d", &a, &b);
 // call to the function swcf 
-  	swcf(a,b);
+      swcf(a,b);
     return 0;
 }
+
 
